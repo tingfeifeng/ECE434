@@ -13,5 +13,5 @@ or
 
 `python main.py`
 
-
+If you resize the terminal, you can use c to clear and resize the pane. 
 

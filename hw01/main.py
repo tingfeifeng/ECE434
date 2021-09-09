@@ -29,6 +29,7 @@ def main(stdscr):
               stdscr.clear()
               y = 0
               x = 0
+              height, width = stdscr.getmaxyx()
 
 
 curses.wrapper(main)
